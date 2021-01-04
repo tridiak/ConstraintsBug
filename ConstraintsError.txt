@@ -1,0 +1,102 @@
+2021-01-03 18:12:35.298447+1300 ConstraintsBug[14223:3446146] [LayoutConstraints] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. 
+	Try this: 
+		(1) look at each constraint and try to figure out which you don't expect; 
+		(2) find the code that added the unwanted constraint or constraints and fix it. 
+	(Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSAutoresizingMaskLayoutConstraint:0x280dfbf20 h=--& v=--& _UIButtonBarButton:0x102e3d790.height == 0   (active)>",
+    "<NSLayoutConstraint:0x280dfb700 V:|-(6)-[_UIUCBKBSelectionBackground:0x102e2c800]   (active, names: '|':_UIButtonBarButton:0x102e3d790 )>",
+    "<NSLayoutConstraint:0x280dfb7a0 _UIUCBKBSelectionBackground:0x102e2c800.bottom == _UIButtonBarButton:0x102e3d790.bottom - 6   (active)>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x280dfb7a0 _UIUCBKBSelectionBackground:0x102e2c800.bottom == _UIButtonBarButton:0x102e3d790.bottom - 6   (active)>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKitCore/UIView.h> may also be helpful.
+2021-01-03 18:12:35.299407+1300 ConstraintsBug[14223:3446146] [LayoutConstraints] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. 
+	Try this: 
+		(1) look at each constraint and try to figure out which you don't expect; 
+		(2) find the code that added the unwanted constraint or constraints and fix it. 
+	(Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSAutoresizingMaskLayoutConstraint:0x280def2f0 h=--& v=--& _UIButtonBarButton:0x102e3e220.height == 0   (active)>",
+    "<NSLayoutConstraint:0x280dfb9d0 V:|-(6)-[_UIUCBKBSelectionBackground:0x102e3ea10]   (active, names: '|':_UIButtonBarButton:0x102e3e220 )>",
+    "<NSLayoutConstraint:0x280dfba70 _UIUCBKBSelectionBackground:0x102e3ea10.bottom == _UIButtonBarButton:0x102e3e220.bottom - 6   (active)>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x280dfba70 _UIUCBKBSelectionBackground:0x102e3ea10.bottom == _UIButtonBarButton:0x102e3e220.bottom - 6   (active)>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKitCore/UIView.h> may also be helpful.
+2021-01-03 18:12:35.299993+1300 ConstraintsBug[14223:3446146] [LayoutConstraints] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. 
+	Try this: 
+		(1) look at each constraint and try to figure out which you don't expect; 
+		(2) find the code that added the unwanted constraint or constraints and fix it. 
+	(Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSAutoresizingMaskLayoutConstraint:0x280de4230 h=--& v=--& _UIButtonBarButton:0x102e3eb90.height == 0   (active)>",
+    "<NSLayoutConstraint:0x280dfbca0 V:|-(6)-[_UIUCBKBSelectionBackground:0x102e3f380]   (active, names: '|':_UIButtonBarButton:0x102e3eb90 )>",
+    "<NSLayoutConstraint:0x280dfbd40 _UIUCBKBSelectionBackground:0x102e3f380.bottom == _UIButtonBarButton:0x102e3eb90.bottom - 6   (active)>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x280dfbd40 _UIUCBKBSelectionBackground:0x102e3f380.bottom == _UIButtonBarButton:0x102e3eb90.bottom - 6   (active)>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKitCore/UIView.h> may also be helpful.
+2021-01-03 18:12:35.304040+1300 ConstraintsBug[14223:3446146] [LayoutConstraints] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. 
+	Try this: 
+		(1) look at each constraint and try to figure out which you don't expect; 
+		(2) find the code that added the unwanted constraint or constraints and fix it. 
+	(Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSAutoresizingMaskLayoutConstraint:0x280de5810 h=--& v=--& _UIButtonBarButton:0x102e423c0.height == 0   (active)>",
+    "<NSLayoutConstraint:0x280de5040 _UIUCBKBSelectionBackground:0x102e431d0.bottom == _UIButtonBarButton:0x102e423c0.bottom - 6   (active)>",
+    "<NSLayoutConstraint:0x280de4fa0 V:|-(6)-[_UIUCBKBSelectionBackground:0x102e431d0]   (active, names: '|':_UIButtonBarButton:0x102e423c0 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x280de5040 _UIUCBKBSelectionBackground:0x102e431d0.bottom == _UIButtonBarButton:0x102e423c0.bottom - 6   (active)>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKitCore/UIView.h> may also be helpful.
+2021-01-03 18:12:35.304600+1300 ConstraintsBug[14223:3446146] [LayoutConstraints] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. 
+	Try this: 
+		(1) look at each constraint and try to figure out which you don't expect; 
+		(2) find the code that added the unwanted constraint or constraints and fix it. 
+	(Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSAutoresizingMaskLayoutConstraint:0x280de54f0 h=--& v=--& _UIButtonBarButton:0x102e415b0.height == 0   (active)>",
+    "<NSLayoutConstraint:0x280de4cd0 V:|-(6)-[_UIUCBKBSelectionBackground:0x102e42240]   (active, names: '|':_UIButtonBarButton:0x102e415b0 )>",
+    "<NSLayoutConstraint:0x280de4d70 _UIUCBKBSelectionBackground:0x102e42240.bottom == _UIButtonBarButton:0x102e415b0.bottom - 6   (active)>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x280de4d70 _UIUCBKBSelectionBackground:0x102e42240.bottom == _UIButtonBarButton:0x102e415b0.bottom - 6   (active)>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKitCore/UIView.h> may also be helpful.
+2021-01-03 18:12:35.305046+1300 ConstraintsBug[14223:3446146] [LayoutConstraints] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. 
+	Try this: 
+		(1) look at each constraint and try to figure out which you don't expect; 
+		(2) find the code that added the unwanted constraint or constraints and fix it. 
+	(Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSAutoresizingMaskLayoutConstraint:0x280de51d0 h=--& v=--& _UIButtonBarButton:0x102f18290.height == 0   (active)>",
+    "<NSLayoutConstraint:0x280de49b0 V:|-(6)-[_UIUCBKBSelectionBackground:0x102e41220]   (active, names: '|':_UIButtonBarButton:0x102f18290 )>",
+    "<NSLayoutConstraint:0x280de4a50 _UIUCBKBSelectionBackground:0x102e41220.bottom == _UIButtonBarButton:0x102f18290.bottom - 6   (active)>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x280de4a50 _UIUCBKBSelectionBackground:0x102e41220.bottom == _UIButtonBarButton:0x102f18290.bottom - 6   (active)>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKitCore/UIView.h> may also be helpful.
